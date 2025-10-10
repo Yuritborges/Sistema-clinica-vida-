@@ -1,0 +1,12 @@
+# Arquivos de dados gerados
+pacientes.json
+*.db
+
+# Pastas e arquivos de build
+.venv/
+venv/
+__pycache__/
+build/
+dist/
+*.pyc
+*.spec
